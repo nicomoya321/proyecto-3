@@ -13,7 +13,8 @@ Esta API proporciona recomendaciones de juegos en la plataforma Steam basadas en
 
 # Funcion
 
-# Entrada del Usuario: El usuario proporciona el ID de un juego como parámetro en la URL al hacer una solicitud GET a /recomendacion_juego/{product_id}.
+# Entrada del Usuario: 
+El usuario proporciona el ID de un juego como parámetro en la URL al hacer una solicitud GET a /recomendacion_juego/{product_id}.
 
 Obtención de Datos del Juego de Referencia: La API obtiene los datos del juego de referencia con el ID proporcionado por el usuario desde un archivo CSV que contiene información sobre los juegos de Steam.
 
