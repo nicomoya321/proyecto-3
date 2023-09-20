@@ -3,4 +3,5 @@ fastparquet
 numpy
 pandas
 uvicorn
+node
 scikit-learn
